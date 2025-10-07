@@ -11,7 +11,7 @@ It compares **CNN**, **ResNet50**, and **InceptionV3**, along with 2 **custom op
 ### 🧩 Tech Stack
 - **Languages:** Python  
 - **Frameworks:** TensorFlow, Keras, OpenCV  
-- **Tools:** VS Code, Google Colab, Kaggle  
+- **Tools:** VS Code, Google Colab, Kaggle, Jupyter Notebook 
 
 
 ### 📊 Results
