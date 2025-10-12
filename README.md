@@ -21,4 +21,5 @@ achieving higher PSNR/SSIM and accuracy in tumor classification.
 ---
 
 📘 *Author:* Lim Victor  
+🏫 *Multimedia University (MMU), Melaka Campus*  
 🎓 *Bachelor of Computer Science (Hons) in Artificial Intelligence*  
